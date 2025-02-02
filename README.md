@@ -1,4 +1,19 @@
-# Online Quiz Template
+# [Online Quiz Template](https://pathanin-kht.github.io/OnlineQuizTemplate/)
+
+## Project Status
+- This is the first and only release of the project.
+- No further updates or maintenance will be provided.
+
+## Features
+- Multiple-choice questions based on the Present Simple Tense.
+- Real-time progress tracker showing how many questions have been answered.
+- Provides immediate feedback on correct and incorrect answers.
+- Displays the user's score after completing the quiz.
+- Option to retry the quiz.
+
+## Notes
+Please refer to [README.md](README.md) for more details.
+)
 ## Overview
 This project serves as an online quiz template, allowing users to customize it easily. You can modify the quiz questions and answers by editing the JSON file inside the code, making it yours to use and adapt.
 
