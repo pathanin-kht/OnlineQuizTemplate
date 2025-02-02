@@ -1,0 +1,202 @@
+[
+    {
+        "title": "She ______ every morning?",
+        "options": [
+            "walks",
+            "walk",
+            "walking",
+            "walked"
+        ],
+        "answer": 1
+    },
+    {
+        "title": "They ______ to the park every weekend.",
+        "options": [
+            "goes",
+            "going",
+            "go",
+            "gone"
+        ],
+        "answer": 3
+    },
+    {
+        "title": "He prefers tea but now he ______ coffee.",
+        "options": [
+            "drink",
+            "drinks",
+            "drinking",
+            "drank"
+        ],
+        "answer": 2
+    },
+    {
+        "title": "I always ______ breakfast before school.",
+        "options": [
+            "have",
+            "having",
+            "has",
+            "had"
+        ],
+        "answer": 1
+    },
+    {
+        "title": "The cat ______ on the mat every afternoon.",
+        "options": [
+            "sit",
+            "sits",
+            "sat",
+            "sitting"
+        ],
+        "answer": 2
+    },
+    {
+        "title": "We ______ English every day.",
+        "options": [
+            "study",
+            "studies",
+            "studying",
+            "studied"
+        ],
+        "answer": 1
+    },
+    {
+        "title": "He ______ soccer after school every evening.",
+        "options": [
+            "play",
+            "playing",
+            "plays",
+            "played"
+        ],
+        "answer": 3
+    },
+    {
+        "title": "The sun ______ in the east.",
+        "options": [
+            "rise",
+            "rises",
+            "rising",
+            "rose"
+        ],
+        "answer": 2
+    },
+    {
+        "title": "We ______ TV every evening.",
+        "options": [
+            "watch",
+            "watches",
+            "watching",
+            "watched"
+        ],
+        "answer": 1
+    },
+    {
+        "title": "My mother ______ delicious food every weekend.",
+        "options": [
+            "cook",
+            "cooks",
+            "cooking",
+            "cooked"
+        ],
+        "answer": 2
+    },
+    {
+        "title": "She ______ piano every day.",
+        "options": [
+            "practice",
+            "practices",
+            "practicing",
+            "practiced"
+        ],
+        "answer": 2
+    },
+    {
+        "title": "We usually ______ to the market on Sundays.",
+        "options": [
+            "go",
+            "going",
+            "gone",
+            "went"
+        ],
+        "answer": 1
+    },
+    {
+        "title": "My dog ______ loudly when strangers come.",
+        "options": [
+            "barks",
+            "bark",
+            "barking",
+            "barked"
+        ],
+        "answer": 1
+    },
+    {
+        "title": "They ______ football every evening.",
+        "options": [
+            "plays",
+            "play",
+            "playing",
+            "played"
+        ],
+        "answer": 2
+    },
+    {
+        "title": "He always ______ to school on time.",
+        "options": [
+            "come",
+            "comes",
+            "coming",
+            "came"
+        ],
+        "answer": 2
+    },
+    {
+        "title": "Birds ______ in the sky.",
+        "options": [
+            "fly",
+            "flies",
+            "flying",
+            "flew"
+        ],
+        "answer": 1
+    },
+    {
+        "title": "She ______ her homework every evening.",
+        "options": [
+            "do",
+            "does",
+            "doing",
+            "did"
+        ],
+        "answer": 2
+    },
+    {
+        "title": "The baby always ______ when it's hungry.",
+        "options": [
+            "cry",
+            "cries",
+            "crying",
+            "cried"
+        ],
+        "answer": 2
+    },
+    {
+        "title": "He ______ to work every day by bus.",
+        "options": [
+            "travel",
+            "travels",
+            "traveling",
+            "traveled"
+        ],
+        "answer": 2
+    },
+    {
+        "title": "We ______ new words in English every day.",
+        "options": [
+            "learn",
+            "learns",
+            "learning",
+            "learned"
+        ],
+        "answer": 1
+    }
+]
